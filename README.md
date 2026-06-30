@@ -79,25 +79,14 @@ The dashboard includes slicers to filter data dynamically, making it easier to a
 
 ---
 
-Excel-Sales-Dashboard
-│
-├── Dashboard
-│   ├── Excel Sales Dashboard.xlsx
-│   └── Dashboard Screenshot.png
-│
-├── Images
-│   └── dashboard.png
-│
-├── README.md
-│
-└── LICENSE
+
 ---
 
 ## 📸 Dashboard Preview
 
-<img src="" width="800">
+<img src="https://raw.githubusercontent.com/gaml8467-source/excel-sales-analysis-dashboard/refs/heads/main/excel-sales-analysis-dashboard/photo/Annotation%202026-06-26%20182918.png" width="800">
 
-<img src="" width="800">
+<img src="https://raw.githubusercontent.com/gaml8467-source/excel-sales-analysis-dashboard/refs/heads/main/excel-sales-analysis-dashboard/photo/Diagram.png" width="800">
 
 
 
